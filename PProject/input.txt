@@ -1,0 +1,10 @@
+Name, Developer, Publisher, Price, Genre, No_of_DLCs, Year_of_launch |
+Far Cry 6, Ubisoft Toronto, Ubisoft, 60.00, Shooter, 3, 2021
+Bioshock Infinite, Irrational Games, 2K Games, 15.00, Shooter, 3, 2013
+Prototype 2, Radical Entertainemnt, Activision, 9.50, Action-adventure, 2, 2012
+Serious Sam: The First Encounter, Croteam, 2K, 5.00, Shooter, 0, 2001
+Serious Sam: The Second encounter, Croteam, 2K Games, 5.00, Shooter, 1, 2002
+Serious Sam 3 BFE, Croteam, Devolver Digital, 9.50, Shooter, 3, 2011
+Grand Theft Auto V, Rockstar North, Rockstar Games, 20.00, Open-world, 24, 2015
+Serious Sam 2, Croteam, 2K Games, 5.00, Shooter, 0, 2005
+The talos principle, Croteam, Devolver Digital, 39.99, Puzzle, 1, 2014
